@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:4F46E5,100:00C6FF&height=150&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:4F46E5,100:00C6FF&height=260&section=header&text=Megh%20Dave&fontSize=84&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=ML%20Engineer%20%C2%B7%20Robotics%20%C2%B7%20Computer%20Vision%20%C2%B7%20AI%20Research&descSize=19&descAlignY=62" width="100%" alt="Megh Dave"/>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=64&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=90&lines=MEGH+DAVE" width="100%" alt="MEGH DAVE"/>
-</p>
-
-<p align="center"><b>ML Engineer · Robotics · Computer Vision · AI Engineering · AI Research</b></p>
 
 <p align="center">
   <a href="https://megh4tech.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00C6FF&center=true&vCenter=true&width=720&lines=Machine+Learning+Engineer;Robotics+%C2%B7+SLAM+%C2%B7+Computer+Vision;AI+Agents+%C2%B7+LLM+Fine-tuning+%C2%B7+RAG;11x+Hackathon+Winner;Engineer+for+5%2B+startups%2C+pre-seed+%E2%86%92+funded" alt="Typing SVG"/></a>
@@ -167,14 +161,6 @@ Intrusion detection over 1M+ network logs at 99%+ recall. Live PCAP capture, ano
 - **Research:** inverse PINNs for plant-transpiration modelling, an explainable ConvNeXt ensemble for cervical-cancer detection (presented), and federated learning (paper in progress)
 
 </details>
-
----
-
-## Contributions
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution chart"/>
-</p>
 
 ---
 
