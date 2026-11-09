@@ -2,6 +2,8 @@
 
 <h3 align="center">Robotics · Computer Vision · AI Engineering · AI Research · Full Stack</h3>
 
+<p align="center"><b>11x Hackathon Winner · 5+ Startups · Pre-seed to Funded</b></p>
+
 <p align="center">
   Mumbai, India ·
   <a href="https://megh4tech.vercel.app/">megh4tech.vercel.app</a> ·
@@ -14,16 +16,20 @@
 
 ### About
 
-I'm an engineer who works across the whole stack of an AI product, from sensors and models to the app people actually use. I've worked with **5+ startups, from pre-seed to funded**, usually as the person who picks up whatever the problem needs: SLAM one month, agents the next, then the backend that ships them.
+**I don't pick a lane. I pick the problem, then I ship it.**
 
-B.Tech CSE (Data Science) at D.J. Sanghvi College of Engineering, with Honours in Computational Finance.
+Robots that know where they are. Models that can see. Agents that write, test and deploy their own code. LLMs small enough to run on a phone with no internet. And the app that puts all of it in someone's hands.
+
+Startups call me when the problem doesn't fit one job title. **5+ so far, from pre-seed to funded.** When there's no startup, there's a hackathon, and I usually win it.
 
 **Highlights**
-- Worked with **5+ startups**, from pre-seed to funded
-- **7 hackathon wins** and **11 podium finishes**
-- Fine-tuned an LLM that runs **offline on a phone in 22 Indian languages**
-- Built agent systems that **plan, build, test and deploy software on their own**
-- ML mentor at DJS Compute, **200+ people guided**
+- **11x hackathon winner**
+- **5+ startups**, pre-seed to funded
+- Built an agent swarm that **ships software with no human in the loop**
+- Put a fine-tuned LLM **on a phone, offline, in 22 Indian languages**
+- Mentored **200+ people** in ML at DJS Compute
+
+<sub>B.Tech CSE (Data Science), D.J. Sanghvi · Honours in Computational Finance</sub>
 
 ---
 
@@ -94,7 +100,7 @@ Intrusion detection over **1M+ network logs** at **99%+ recall**.
 
 ---
 
-### Hackathons
+### 11x Hackathon Winner
 
 - **Winner**, ChatGPT / Codex Community Hackathon: *Forge*
 - **Winner**, Hackniche 4.0: *EcoSort AI*
