@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="270" viewBox="0 0 600 270" role="img" aria-label="LawTune: A legal assistant that speaks 22 Indian languages and runs offline on a phone. Gemma-2B fine-tuned with QLoRA, quantised to 4-bit.">
+<rect x="0.5" y="0.5" width="599" height="269" rx="12" fill="#0f0f0f" stroke="#232323"/>
+<path d="M10 22V10H22M590 22V10H578M10 248V260H22M590 248V260H578" fill="none" stroke="#c6ff00" stroke-width="2"/>
+<text x="34" y="52" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="12" fill="#c6ff00" letter-spacing="1.5">FINE-TUNING · ON-DEVICE</text>
+<text x="32" y="96" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" fill="#ededed" letter-spacing="-0.5">LawTune</text>
+<text x="34" y="130" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#8a8a8a">A legal assistant that speaks 22 Indian languages and runs</text>
+<text x="34" y="153" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#8a8a8a">offline on a phone. Gemma-2B fine-tuned with QLoRA, quantised to</text>
+<text x="34" y="176" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#8a8a8a">4-bit.</text>
+<rect x="34" y="212" width="81" height="26" rx="5" fill="none" stroke="#232323"/><text x="44" y="229.5" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="12.5" fill="#ededed">Gemma-2B</text>
+<rect x="122.8" y="212" width="58" height="26" rx="5" fill="none" stroke="#232323"/><text x="132.8" y="229.5" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="12.5" fill="#ededed">QLoRA</text>
+<rect x="188.8" y="212" width="43" height="26" rx="5" fill="none" stroke="#232323"/><text x="198.8" y="229.5" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="12.5" fill="#ededed">MLX</text>
+<rect x="239.60000000000002" y="212" width="58" height="26" rx="5" fill="none" stroke="#232323"/><text x="249.60000000000002" y="229.5" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="12.5" fill="#ededed">4-bit</text>
+<text x="566" y="230" text-anchor="end" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="13" fill="#c6ff00">code &#8599;</text>
+</svg>

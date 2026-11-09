@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="270" viewBox="0 0 600 270" role="img" aria-label="CyberSecure: Intrusion detection over 1M+ network logs at 99%+ recall. Live PCAP capture, anomaly dashboards, Merkle-tree immutable logs, GenAI summaries.">
+<rect x="0.5" y="0.5" width="599" height="269" rx="12" fill="#0f0f0f" stroke="#232323"/>
+<path d="M10 22V10H22M590 22V10H578M10 248V260H22M590 248V260H578" fill="none" stroke="#c6ff00" stroke-width="2"/>
+<text x="34" y="52" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="12" fill="#c6ff00" letter-spacing="1.5">TEAM PROJECT · SECURITY ML</text>
+<text x="32" y="96" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" fill="#ededed" letter-spacing="-0.5">CyberSecure</text>
+<text x="34" y="130" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#8a8a8a">Intrusion detection over 1M+ network logs at 99%+ recall. Live</text>
+<text x="34" y="153" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#8a8a8a">PCAP capture, anomaly dashboards, Merkle-tree immutable logs,</text>
+<text x="34" y="176" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#8a8a8a">GenAI summaries.</text>
+<rect x="34" y="212" width="111" height="26" rx="5" fill="none" stroke="#232323"/><text x="44" y="229.5" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="12.5" fill="#ededed">Scikit-learn</text>
+<rect x="153.2" y="212" width="73" height="26" rx="5" fill="none" stroke="#232323"/><text x="163.2" y="229.5" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="12.5" fill="#ededed">Next.js</text>
+<rect x="234.39999999999998" y="212" width="50" height="26" rx="5" fill="none" stroke="#232323"/><text x="244.39999999999998" y="229.5" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="12.5" fill="#ededed">Groq</text>
+<text x="566" y="230" text-anchor="end" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="13" fill="#c6ff00">live &#8599;</text>
+</svg>

@@ -1,0 +1,180 @@
+{
+  "hero": {
+    "kicker": "// the engineer startups call when it doesn't fit one box",
+    "first": "MEGH",
+    "last": "DAVE",
+    "domains": "ROBOTICS · CV · AI ENGINEERING · AI RESEARCH · APPS",
+    "stats": [
+      [
+        "5+",
+        "STARTUPS"
+      ],
+      [
+        "7",
+        "HACKATHON WINS"
+      ],
+      [
+        "11",
+        "PODIUMS"
+      ]
+    ]
+  },
+  "sections": [
+    "What I do",
+    "Selected work",
+    "Track record",
+    "Research",
+    "Stack",
+    "Contact"
+  ],
+  "capabilities": [
+    {
+      "title": "Robotics & SLAM",
+      "desc": "Visual-inertial odometry, camera + IMU fusion, mapping, localisation and perception for autonomy."
+    },
+    {
+      "title": "Computer Vision",
+      "desc": "Segmentation (Mask2Former, Swin), detection, CLIP, real-time pipelines, medical imaging."
+    },
+    {
+      "title": "AI Engineering",
+      "desc": "Agents, multi-agent swarms, RAG, eval gates, LLM apps that survive production traffic."
+    },
+    {
+      "title": "AI Research",
+      "desc": "Fine-tuning (QLoRA, 4-bit, on-device), PINNs, explainable AI, federated learning."
+    },
+    {
+      "title": "Full Stack & Apps",
+      "desc": "Web and mobile. Next.js, React, FastAPI, auth, databases, Docker, Terraform, deploys."
+    },
+    {
+      "title": "Startup Mode",
+      "desc": "0 to 1 under deadlines. 5+ startups from pre-seed to funded. Whatever the problem needs."
+    }
+  ],
+  "projects": [
+    {
+      "slug": "forge",
+      "name": "Forge",
+      "label": "Winner · Codex Community Hackathon",
+      "desc": "An autonomous engineering org in a box. A swarm of Codex agents builds in parallel, an eval gate kills weak attempts, and the result ships itself and self-heals.",
+      "stack": [
+        "Agent Swarm",
+        "Codex",
+        "Eval Gate",
+        "CI/CD"
+      ],
+      "url": "https://forge-surfaces-mauve.vercel.app/",
+      "cta": "live"
+    },
+    {
+      "slug": "litagent",
+      "name": "LitAgent",
+      "label": "2nd Runner-Up · Hackanova 5.0",
+      "desc": "A multi-agent researcher that reads the literature and writes the review. 15-step pipeline over Semantic Scholar, arXiv and PubMed with an LLM council.",
+      "stack": [
+        "Multi-agent",
+        "RAG",
+        "LangChain"
+      ],
+      "url": "https://litagent.vercel.app/",
+      "cta": "live"
+    },
+    {
+      "slug": "lawtune",
+      "name": "LawTune",
+      "label": "Fine-tuning · On-device",
+      "desc": "A legal assistant that speaks 22 Indian languages and runs offline on a phone. Gemma-2B fine-tuned with QLoRA, quantised to 4-bit.",
+      "stack": [
+        "Gemma-2B",
+        "QLoRA",
+        "MLX",
+        "4-bit"
+      ],
+      "url": "https://github.com/MEGH06/LawTune",
+      "cta": "code"
+    },
+    {
+      "slug": "fincognia",
+      "name": "Fincognia",
+      "label": "Winner · Hackxios 2K25",
+      "desc": "An agentic finance co-pilot for gig workers. Predicts liquidity risk at 85% accuracy and heads off EMI defaults before they happen.",
+      "stack": [
+        "Agentic AI",
+        "Forecasting",
+        "FinTech"
+      ],
+      "url": "https://fincogina.vercel.app/",
+      "cta": "live"
+    },
+    {
+      "slug": "easyoffroad",
+      "name": "EasyOffRoad",
+      "label": "Winner · Hawkathon 2026",
+      "desc": "Off-road perception for autonomous vehicles: semantic segmentation of desert terrain with Mask2Former on a Swin-Large backbone.",
+      "stack": [
+        "Mask2Former",
+        "Swin-L",
+        "PyTorch"
+      ],
+      "url": "https://megh4tech.vercel.app/",
+      "cta": "more"
+    },
+    {
+      "slug": "cybersecure",
+      "name": "CyberSecure",
+      "label": "Team project · Security ML",
+      "desc": "Intrusion detection over 1M+ network logs at 99%+ recall. Live PCAP capture, anomaly dashboards, Merkle-tree immutable logs, GenAI summaries.",
+      "stack": [
+        "Scikit-learn",
+        "Next.js",
+        "Groq"
+      ],
+      "url": "https://redact-cybersecure-tau.vercel.app/",
+      "cta": "live"
+    }
+  ],
+  "trophies": [
+    [
+      "Winner",
+      "ChatGPT / Codex Community Hackathon",
+      "Forge"
+    ],
+    [
+      "Winner",
+      "Hackniche 4.0",
+      "EcoSort AI"
+    ],
+    [
+      "Winner",
+      "Hawkathon 2026",
+      "EasyOffRoad"
+    ],
+    [
+      "Winner",
+      "Hackxios 2K25 · Innovation track",
+      "Fincognia"
+    ],
+    [
+      "2nd Runner-Up",
+      "Hackanova 5.0",
+      "LitAgent"
+    ],
+    [
+      "Runner-Up",
+      "Datathon 2026",
+      "Equilibrium.ai"
+    ],
+    [
+      "2nd Runner-Up",
+      "Co-Code Hackathon · DJ Sanghvi",
+      "—"
+    ],
+    [
+      "2nd Runner-Up",
+      "DJS Sanshodhan · research symposium",
+      "—"
+    ]
+  ]
+}
