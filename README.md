@@ -164,6 +164,12 @@ Intrusion detection over 1M+ network logs at 99%+ recall. Live PCAP capture, ano
 
 ---
 
+## Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution chart"/>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C6FF,50:4F46E5,100:7F00FF&height=160&section=footer" width="100%"/>
 </p>
