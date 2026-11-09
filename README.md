@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:4F46E5,100:00C6FF&height=230&section=header&text=Megh%20Dave&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Robotics%20%C2%B7%20Computer%20Vision%20%C2%B7%20AI%20Engineering%20%C2%B7%20AI%20Research&descSize=18&descAlignY=60" width="100%" alt="Megh Dave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:4F46E5,100:00C6FF&height=150&section=header" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://megh4tech.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=640&lines=11x+Hackathon+Winner;Engineer+for+5%2B+startups%2C+pre-seed+to+funded;SLAM+%7C+Computer+Vision+%7C+Agents+%7C+Fine-tuning;I+build+it%2C+then+I+ship+it." alt="Typing SVG"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=64&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=90&lines=MEGH+DAVE" width="100%" alt="MEGH DAVE"/>
+</p>
+
+<p align="center"><b>ML Engineer · Robotics · Computer Vision · AI Engineering · AI Research</b></p>
+
+<p align="center">
+  <a href="https://megh4tech.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00C6FF&center=true&vCenter=true&width=720&lines=Machine+Learning+Engineer;Robotics+%C2%B7+SLAM+%C2%B7+Computer+Vision;AI+Agents+%C2%B7+LLM+Fine-tuning+%C2%B7+RAG;11x+Hackathon+Winner;Engineer+for+5%2B+startups%2C+pre-seed+%E2%86%92+funded" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
@@ -164,16 +170,11 @@ Intrusion detection over 1M+ network logs at 99%+ recall. Live PCAP capture, ano
 
 ---
 
-## 11x Hackathon Winner
+## Contributions
 
-| Event | Result | Project |
-|---|---|---|
-| ChatGPT / Codex Community Hackathon | **Winner** | Forge |
-| Hackniche 4.0 | **Winner** | EcoSort AI |
-| Hawkathon 2026 | **Winner** | EasyOffRoad |
-| Hackxios 2K25 | **Winner** | Fincognia |
-| Hackanova 5.0 | 2nd Runner-Up | LitAgent |
-| Datathon 2026 | Runner-Up | Equilibrium.ai |
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution chart"/>
+</p>
 
 ---
 
