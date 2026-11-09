@@ -1,151 +1,182 @@
-<h1 align="center">Hi, I'm Megh Dave</h1>
-
-<h3 align="center">Robotics · Computer Vision · AI Engineering · AI Research · Full Stack</h3>
-
-<p align="center"><b>11x Hackathon Winner · 5+ Startups · Pre-seed to Funded</b></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:4F46E5,100:00C6FF&height=230&section=header&text=Megh%20Dave&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Robotics%20%C2%B7%20Computer%20Vision%20%C2%B7%20AI%20Engineering%20%C2%B7%20AI%20Research&descSize=18&descAlignY=60" width="100%" alt="Megh Dave"/>
+</p>
 
 <p align="center">
-  Mumbai, India ·
-  <a href="https://megh4tech.vercel.app/">megh4tech.vercel.app</a> ·
-  <a href="https://www.linkedin.com/in/megh-dave-4a2227314/">LinkedIn</a> ·
-  <a href="https://medium.com/@meghdave2006">Medium</a> ·
-  <a href="mailto:meghdave2006@gmail.com">meghdave2006@gmail.com</a>
+  <a href="https://megh4tech.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=640&lines=11x+Hackathon+Winner;Engineer+for+5%2B+startups%2C+pre-seed+to+funded;SLAM+%7C+Computer+Vision+%7C+Agents+%7C+Fine-tuning;I+build+it%2C+then+I+ship+it." alt="Typing SVG"/></a>
+</p>
+
+<p align="center">
+  <a href="https://megh4tech.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/megh-dave-4a2227314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@meghdave2006"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:meghdave2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MEGH06&style=for-the-badge&color=4F46E5&label=VIEWS"/>
 </p>
 
 ---
 
-### About
+## About me
 
-**I don't pick a lane. I pick the problem, then I ship it.**
+I'm an engineer from Mumbai. I work on robotics, computer vision and AI, and I also build the backend and app that go around them.
 
-Robots that know where they are. Models that can see. Agents that write, test and deploy their own code. LLMs small enough to run on a phone with no internet. And the app that puts all of it in someone's hands.
-
-Startups call me when the problem doesn't fit one job title. **5+ so far, from pre-seed to funded.** When there's no startup, there's a hackathon, and I usually win it.
-
-**Highlights**
+- Engineer for **5+ startups**, from pre-seed to funded, shipping their production systems
+- Currently working on: **SLAM / visual-inertial odometry, AI agents, LLM fine-tuning**
 - **11x hackathon winner**
-- **5+ startups**, pre-seed to funded
-- Built an agent swarm that **ships software with no human in the loop**
-- Put a fine-tuned LLM **on a phone, offline, in 22 Indian languages**
-- Mentored **200+ people** in ML at DJS Compute
-
-<sub>B.Tech CSE (Data Science), D.J. Sanghvi · Honours in Computational Finance</sub>
+- ML mentor at DJS Compute
+- B.Tech CSE (Data Science) at D.J. Sanghvi, with Honours in Computational Finance
+- Reach me at **meghdave2006@gmail.com**
 
 ---
 
-### What I work on
+## Startup experience
 
-- **Robotics & SLAM:** visual-inertial odometry, camera + IMU sensor fusion, mapping, localisation, perception for autonomy
-- **Computer vision:** segmentation (Mask2Former, Swin), detection, CLIP, real-time pipelines, medical imaging
-- **AI engineering:** multi-agent systems, RAG, evaluation pipelines, LLM apps in production
-- **AI research:** fine-tuning (QLoRA, 4-bit, on-device), physics-informed neural networks, explainable AI, federated learning
-- **Full stack & apps:** Next.js, React, FastAPI, auth, databases, Docker, Terraform, deployment
+I've been the engineer for **5+ startups**, from pre-seed teams finding their first product to funded companies scaling it. I don't just consult; I build and own the systems they run on:
+
+| What I built for startups | Scope |
+|---|---|
+| **SLAM & sensor-fusion pipelines** | Visual-inertial odometry, camera + IMU fusion, mapping and localisation on real-world data |
+| **Computer vision systems** | Detection and segmentation models, taken from data and training to deployment |
+| **AI agents & LLM features** | Agent workflows, RAG, fine-tuned models, evaluation pipelines |
+| **Full products, MVP to production** | Backend, APIs, auth, databases, front end, cloud deployment |
+
+Most of this is closed-source client work. The projects below are the public side of it.
 
 ---
 
-### Featured Projects
+## Tech stack
 
-#### [Forge](https://forge-surfaces-mauve.vercel.app/): autonomous engineering org in a box
-**Winner, ChatGPT / Codex Community Hackathon**<br/>
-Describe a product in plain English. A swarm of Codex agents builds it in parallel, an eval gate scores the attempts and drops the weak ones, and the best result deploys itself to a live URL. When it breaks, it repairs itself.
-- Stack: Agent swarm · Codex · Eval gate · Self-healing CI/CD
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,cpp&perline=6" alt="ML"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,ts,js,nodejs&perline=6" alt="Web"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,terraform,aws,vercel,git,linux&perline=6" alt="Infra"/>
+</p>
 
-#### [LawTune](https://github.com/MEGH06/LawTune): offline legal assistant in 22 Indian languages
-A legal assistant that runs entirely on a phone, with no internet needed.
-- Gemma-2B fine-tuned with **QLoRA** and quantised to **4-bit** for on-device inference
-- Stack: Gemma-2B · QLoRA · MLX · Python
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QLoRA-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MLX-000000?style=flat-square&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Mask2Former-4F46E5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
 
-#### [EasyOffRoad](https://megh4tech.vercel.app/): perception for off-road autonomous vehicles
-**Winner, Hawkathon 2026**<br/>
-Semantic segmentation of desert terrain (trees, rocks, sky and more) for autonomous navigation.
-- Mask2Former with a Swin-Large backbone, specialised loss handling, test-time augmentation
-- Next.js front end with a 3D simulation scene and a training-metrics dashboard
-- Stack: PyTorch · Mask2Former · Swin-Large · Next.js
+---
 
-#### [LitAgent](https://litagent.vercel.app/): multi-agent research assistant
-**2nd Runner-Up, Hackanova 5.0**<br/>
-Reads the literature and writes the review.
-- 15-step pipeline across Semantic Scholar, arXiv and PubMed: citation-graph expansion, PDF parsing, contradiction detection between studies
-- "LLM Council" where agents debate each other for peer-review-style analysis
-- Stack: Python · LangChain · Multi-agent · RAG
+## What I work on
 
-#### [Fincognia](https://fincogina.vercel.app/): agentic finance co-pilot for gig workers
-**Winner, Hackxios 2K25 (Innovation track)**<br/>
-Predicts liquidity risk at **85% accuracy** and acts on it before an EMI default happens.
-- Stack: Agentic AI · Forecasting · Python
+| Area | What |
+|---|---|
+| **Robotics & SLAM** | Visual-inertial odometry, camera + IMU fusion, mapping, localisation, perception for autonomy |
+| **Computer Vision** | Segmentation (Mask2Former, Swin), detection, CLIP, real-time pipelines, medical imaging |
+| **AI Engineering** | Multi-agent systems, RAG, eval pipelines, LLM apps in production |
+| **AI Research** | Fine-tuning (QLoRA, 4-bit, on-device), PINNs, explainable AI, federated learning |
+| **Full Stack** | Next.js, React, FastAPI, auth, databases, Docker, Terraform |
 
-#### [CyberSecure](https://redact-cybersecure-tau.vercel.app/): ML intrusion detection (team project)
-Intrusion detection over **1M+ network logs** at **99%+ recall**.
-- PCAP and live Wireshark capture, anomaly dashboards, Merkle-tree immutable logging, GenAI threat summaries
-- Stack: Scikit-learn · Next.js · Groq
+---
+
+## Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Forge](https://forge-surfaces-mauve.vercel.app/)
+`Winner · Codex Community Hackathon`
+
+Autonomous engineering org in a box. A swarm of Codex agents builds the product in parallel, an eval gate drops the weak attempts, and the best one deploys itself and self-heals.
+
+**Stack:** Agent Swarm · Codex · Eval Gate · CI/CD
+
+</td>
+<td width="50%" valign="top">
+
+### [EasyOffRoad](https://megh4tech.vercel.app/)
+`Winner · Hawkathon 2026`
+
+Perception for off-road autonomous vehicles. Semantic segmentation of desert terrain using Mask2Former on a Swin-Large backbone, with test-time augmentation.
+
+**Stack:** PyTorch · Mask2Former · Swin-L · Next.js
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [LawTune](https://github.com/MEGH06/LawTune)
+`Fine-tuning · On-device`
+
+Legal assistant in 22 Indian languages that runs offline on a phone. Gemma-2B fine-tuned with QLoRA and quantised to 4-bit.
+
+**Stack:** Gemma-2B · QLoRA · MLX · Python
+
+</td>
+<td width="50%" valign="top">
+
+### [Fincognia](https://fincogina.vercel.app/)
+`Winner · Hackxios 2K25`
+
+Agentic finance co-pilot for gig workers. Predicts liquidity risk with 85% accuracy and acts before an EMI default.
+
+**Stack:** Agentic AI · Forecasting · Python
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [LitAgent](https://litagent.vercel.app/)
+`2nd Runner-Up · Hackanova 5.0`
+
+Multi-agent research assistant. A 15-step pipeline over Semantic Scholar, arXiv and PubMed, with an LLM council that cross-checks claims.
+
+**Stack:** LangChain · Multi-agent · RAG
+
+</td>
+<td width="50%" valign="top">
+
+### [CyberSecure](https://redact-cybersecure-tau.vercel.app/)
+`Team project · Security ML`
+
+Intrusion detection over 1M+ network logs at 99%+ recall. Live PCAP capture, anomaly dashboards and Merkle-tree logging.
+
+**Stack:** Scikit-learn · Next.js · Groq
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>More projects</b></summary>
+<summary><b>More projects and research</b></summary>
 <br/>
 
-- **EcoSort AI** (Winner, Hackniche 4.0): real-time computer vision that identifies and sorts plastics, with automated EPR compliance reports. Roboflow, OpenCV, FastAPI, Next.js
-- **Equilibrium.ai** (Runner-Up, Datathon 2026): simulates how systemic risk spreads through a network of financial institutions
-- [**JigyasaAI**](https://github.com/MEGH06/JigyasaAI): multimodal RAG for PDFs that returns both text and images in one answer. CLIP, ChromaDB, Streamlit
+- **EcoSort AI** (Winner, Hackniche 4.0): real-time CV that identifies and sorts plastics. Roboflow, OpenCV, FastAPI
+- **Equilibrium.ai** (Runner-Up, Datathon 2026): systemic-risk simulation for financial networks
+- [**JigyasaAI**](https://github.com/MEGH06/JigyasaAI): multimodal RAG for PDFs (text + images). CLIP, ChromaDB
 - [**Potato Leaf Detection**](https://github.com/MEGH06/Potato-leaf-detection): plant-disease CNN, 99%+ accuracy on PlantVillage
+- **Research:** inverse PINNs for plant-transpiration modelling, an explainable ConvNeXt ensemble for cervical-cancer detection (presented), and federated learning (paper in progress)
 
 </details>
 
 ---
 
-### Research
+## 11x Hackathon Winner
 
-- **Inverse physics-informed neural networks (PINNs):** estimating hidden plant-transpiration parameters from time-series data, with LSTM temporal encoding and TimeGAN perturbation for sparse, noisy data
-- **Explainable ConvNeXt ensemble for cervical-cancer detection** (presented): SHAP and attention analysis so clinicians can question the prediction, not just trust it
-- **Federated learning** (ongoing): training across devices without raw data leaving them, with a paper in progress
-
----
-
-### 11x Hackathon Winner
-
-- **Winner**, ChatGPT / Codex Community Hackathon: *Forge*
-- **Winner**, Hackniche 4.0: *EcoSort AI*
-- **Winner**, Hawkathon 2026: *EasyOffRoad*
-- **Winner**, Hackxios 2K25 (Innovation track): *Fincognia*
-- **2nd Runner-Up**, Hackanova 5.0: *LitAgent*
-- **Runner-Up**, Datathon 2026: *Equilibrium.ai*
-- **2nd Runner-Up**, Co-Code Hackathon, DJ Sanghvi
-- **2nd Runner-Up**, DJS Sanshodhan research symposium
-
----
-
-### Tech Stack
-
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![QLoRA](https://img.shields.io/badge/QLoRA-6A5ACD?style=flat)
-![MLX](https://img.shields.io/badge/MLX-000000?style=flat&logo=apple&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat)
-
-**Web & Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+| Event | Result | Project |
+|---|---|---|
+| ChatGPT / Codex Community Hackathon | **Winner** | Forge |
+| Hackniche 4.0 | **Winner** | EcoSort AI |
+| Hawkathon 2026 | **Winner** | EasyOffRoad |
+| Hackxios 2K25 | **Winner** | Fincognia |
+| Hackanova 5.0 | 2nd Runner-Up | LitAgent |
+| Datathon 2026 | Runner-Up | Equilibrium.ai |
 
 ---
 
 <p align="center">
-  <i>Open to roles and startup work in robotics, computer vision, AI engineering and AI research.</i><br/>
-  <a href="mailto:meghdave2006@gmail.com">meghdave2006@gmail.com</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:4F46E5,100:7F00FF&height=120&section=footer" width="100%"/>
 </p>
