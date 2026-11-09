@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:4F46E5,100:00C6FF&height=260&section=header&text=Megh%20Dave&fontSize=84&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=ML%20Engineer%20%C2%B7%20Robotics%20%C2%B7%20Computer%20Vision%20%C2%B7%20AI%20Research&descSize=19&descAlignY=62" width="100%" alt="Megh Dave"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F00FF,50:4F46E5,100:00C6FF&height=300&section=header&text=Megh%20Dave&fontSize=84&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=ML%20Engineer%20%C2%B7%20Robotics%20%C2%B7%20Computer%20Vision%20%C2%B7%20AI%20Research&descSize=19&descAlignY=55" width="100%" alt="Megh Dave"/>
 </p>
 
 <p align="center">
@@ -164,6 +164,16 @@ Intrusion detection over 1M+ network logs at 99%+ recall. Live PCAP capture, ano
 
 ---
 
+## Contributions
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:4F46E5,100:7F00FF&height=120&section=footer" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MEGH06/MEGH06/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MEGH06/MEGH06/output/snake-light.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/MEGH06/MEGH06/output/snake-dark.svg" width="100%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C6FF,50:4F46E5,100:7F00FF&height=160&section=footer" width="100%"/>
 </p>
