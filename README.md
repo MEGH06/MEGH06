@@ -1,31 +1,37 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Megh Dave: ML Engineer, Robotics, Computer Vision, AI Research"/>
-</p>
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://megh4tech.vercel.app/)
+
+<h1 align="center">Hi 👋, I'm Megh Dave</h1>
+<h3 align="center">ML Engineer · Robotics · Computer Vision · AI Research from Mumbai, India</h3>
 
 <p align="center">
-  <a href="https://megh4tech.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00C6FF&center=true&vCenter=true&width=720&lines=Machine+Learning+Engineer;Robotics+%C2%B7+SLAM+%C2%B7+Computer+Vision;AI+Agents+%C2%B7+LLM+Fine-tuning+%C2%B7+RAG;11x+Hackathon+Winner;Engineer+for+5%2B+startups%2C+pre-seed+%E2%86%92+funded" alt="Typing SVG"/></a>
+  <a href="https://megh4tech.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=640&lines=Machine+Learning+Engineer;Robotics+%C2%B7+SLAM+%C2%B7+Computer+Vision;AI+Agents+%C2%B7+LLM+Fine-tuning+%C2%B7+RAG;11x+Hackathon+Winner;Engineer+for+5%2B+startups" alt="Typing SVG"/></a>
 </p>
 
-<p align="center">
-  <a href="https://megh4tech.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=MEGH06&label=Profile%20views&color=0e75b6&style=flat" alt="MEGH06"/></p>
+
+- 🏆 **11× Hackathon Winner**
+
+- 🚀 Engineer for **5+ startups**, from pre-seed to funded
+
+- 🤖 Currently working on **SLAM, AI agents and LLM fine-tuning**
+
+- 👨‍💻 All of my projects are available at [megh4tech.vercel.app](https://megh4tech.vercel.app/)
+
+- 💬 Ask me about **ML, Robotics, Computer Vision, AI Agents**
+
+- 🧑‍🏫 ML mentor at **DJS Compute**
+
+- 📫 How to reach me **meghdave2006@gmail.com**
+
+<p align="left">
+  <a href="https://megh4tech.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/megh-dave-4a2227314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@meghdave2006"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="mailto:meghdave2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=MEGH06&style=for-the-badge&color=4F46E5&label=VIEWS"/>
 </p>
 
----
-
-## About me
-
-I'm an engineer from Mumbai. I work on robotics, computer vision and AI, and I also build the backend and app that go around them.
-
-- Engineer for **5+ startups**, from pre-seed to funded, shipping their production systems
-- Currently working on: **SLAM / visual-inertial odometry, AI agents, LLM fine-tuning**
-- **11x hackathon winner**
-- ML mentor at DJS Compute
-- B.Tech CSE (Data Science) at D.J. Sanghvi, with Honours in Computational Finance
-- Reach me at **meghdave2006@gmail.com**
+<br clear="right"/>
 
 ---
 
@@ -64,18 +70,6 @@ Most of this is closed-source client work. The projects below are the public sid
   <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
-
----
-
-## What I work on
-
-| Area | What |
-|---|---|
-| **Robotics & SLAM** | Visual-inertial odometry, camera + IMU fusion, mapping, localisation, perception for autonomy |
-| **Computer Vision** | Segmentation (Mask2Former, Swin), detection, CLIP, real-time pipelines, medical imaging |
-| **AI Engineering** | Multi-agent systems, RAG, eval pipelines, LLM apps in production |
-| **AI Research** | Fine-tuning (QLoRA, 4-bit, on-device), PINNs, explainable AI, federated learning |
-| **Full Stack** | Next.js, React, FastAPI, auth, databases, Docker, Terraform |
 
 ---
 
@@ -164,12 +158,12 @@ Intrusion detection over 1M+ network logs at 99%+ recall. Live PCAP capture, ano
 
 ---
 
-## Contributions
+## GitHub stats
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution chart"/>
+  <img src="https://streak-stats.demolab.com?user=MEGH06&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt=""/>
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution chart"/>
 </p>
