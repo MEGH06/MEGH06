@@ -15,12 +15,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate Breakout SVGs
         uses: cyprieng/github-breakout@v1.2.4
         with:
           github_username: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output_path: ./output/
+
+      - name: Shrink gap between bricks and paddle
+        run: python3 scripts/tighten_breakout.py output/dark.svg output/light.svg
 
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
