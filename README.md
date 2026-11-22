@@ -166,8 +166,8 @@ Intrusion detection over 1M+ network logs at 99%+ recall. Live PCAP capture, ano
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MEGH06/MEGH06/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MEGH06/MEGH06/output/github-snake.svg">
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/MEGH06/MEGH06/output/github-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MEGH06/MEGH06/output/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MEGH06/MEGH06/output/light.svg">
+    <img alt="Breakout game of my contributions" src="https://raw.githubusercontent.com/MEGH06/MEGH06/output/light.svg" width="100%">
   </picture>
 </p>
